@@ -1,0 +1,37 @@
+jdk
+版本 1.8
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+tomcat
+版本 8.0
+https://tomcat.apache.org/download-80.cgi
+
+android sdk tools
+版本 24.4
+https://developer.android.com/sdk/index.html#Other
+
+android sdk
+版本 6.0
+使用android sdk manager安装
+
+nodejs
+版本 4.2
+https://nodejs.org/en/
+
+cordova
+版本 6.1.1
+npm install -g cordova
+
+postcss-cli
+版本
+npm install -g postcss-cli
+
+autoprefixer
+版本
+npm install -g autoprefixer
+
+gradle
+版本 2.13
+http://gradle.org/gradle-download/
+
+
